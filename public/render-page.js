@@ -4043,8 +4043,8 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Brittany Chiang",
-    "short_name": "Brittany Chiang",
+    "name": "Nikhil Thapa",
+    "short_name": "Nikhil Thapa",
     "start_url": "/",
     "background_color": "#020c1b",
     "theme_color": "#0a192f",
@@ -4055,7 +4055,7 @@ var plugins = [{
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "dedd91ab2778735e31d0a7ccbb422fb7"
+    "cacheDigest": "ecfd33e95b611c8b2d924feaff679fea"
   }
 }, {
   name: 'gatsby-plugin-offline',
