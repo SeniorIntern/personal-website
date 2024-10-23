@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Nikhil Thapa',
     description:
-      "Nikhil Thapa is a software engineer, with over three years of hands-on experience in full-stack development. I'm passionate about building scalable web applications, optimizing performance, and enhancing user experiences",
+      'Nikhil Thapa is a software engineer, with over three years of hands-on experience in full-stack development. I@apos;m passionate about building scalable web applications, optimizing performance, and enhancing user experiences',
     siteUrl: 'https://nikhilthapa.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@Senior1ntern',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

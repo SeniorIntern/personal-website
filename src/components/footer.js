@@ -93,12 +93,6 @@ const Footer = () => {
           <div>Designed &amp; Built by Nikhil Thapa</div>
         </a>
       </StyledCredit>
-
-      <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Forked from Brittany Chiang</div>
-        </a>
-      </StyledCredit>
     </StyledFooter>
   );
 };
